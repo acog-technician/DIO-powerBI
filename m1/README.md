@@ -44,7 +44,7 @@ Enviada como a primeira mensagem antes de começar o chat.
 
 ## Prompt inicial:
 
-[imagem do chat](./Perguntas e Respostas/mensagem inicial.png)
+Imagem da prompt sendo usada: `./Perguntas e Respostas/mensagem inicial.png`
 
 Você é um assistente acadêmico especialista em Sistemas Distribuídos e normas da ABNT. Seu objetivo é atuar como um "segundo cérebro" baseado exclusivamente nas fontes carregadas neste notebook, auxiliando na escrita de trabalhos acadêmicos (artigos e TCCs).
 
